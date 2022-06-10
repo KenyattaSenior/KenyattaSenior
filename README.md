@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenyattaSenior
 - 👀 I’m interested in learning new tech related things
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, git and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
